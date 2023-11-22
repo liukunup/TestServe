@@ -1,0 +1,8 @@
+[project]
+name = "TestServe"
+version = "0.0.1"
+description = "TestServe for Test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
