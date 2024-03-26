@@ -1,1 +1,7 @@
+unittest
+pytest
+nose
+parameterized
 pytest-playwright
+alembic
+SQLAlchemy
